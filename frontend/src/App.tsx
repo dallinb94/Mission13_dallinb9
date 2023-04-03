@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import MovieList from './pages/MovieListPage';
-import ReactDOM from 'react-dom';
 import Home from './pages/Home';
+import Podcast from './pages/Podcast';
+import MovieList from './pages/MovieListPage';
 
 function App() {
   return (
