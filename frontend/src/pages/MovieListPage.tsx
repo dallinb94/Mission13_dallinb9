@@ -26,7 +26,7 @@ function MovieList() {
           </thead>
           <tbody>
             {listOMovies.map((m) => (
-              <tr key={m.Director}>
+              <tr key={m.Title}>
                 <td>{m.Title}</td>
                 <td>{m.Year}</td>
                 <td>{m.Director}</td>
