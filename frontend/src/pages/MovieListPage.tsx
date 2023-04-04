@@ -8,8 +8,6 @@ function MovieList() {
 
   return (
     <>
-      <nav>Home | Podcast | Movie List</nav>
-
       <div>
         <h3>Joel Hilton's Movie Collection</h3>
         <br></br>

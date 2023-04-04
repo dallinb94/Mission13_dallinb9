@@ -1,6 +1,4 @@
 import React from 'react';
-import Podcast from './Podcast';
-import MovieList from './MovieListPage';
 
 function Home() {
   return (
